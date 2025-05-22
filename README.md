@@ -14,3 +14,15 @@ This repository contains labs for NLP course.
 - KFold cross-validation
 - Base model freezing
 - Ensembling (averaging of predictions)
+
+## Lab 2 - Summarization Task (CNN dailymail dataset)
+### Key points
+- Gemini
+- falcon_rw_1b_experiment 
+- T5-based models
+
+## Lab 3 - RAG System (NewsQA dataset)
+### Key points
+- Qdrant
+- Gemini
+- all-MiniLM-L6-v2
