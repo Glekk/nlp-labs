@@ -4,7 +4,6 @@ This repository contains labs for NLP course.
 ## Team Members
 - Швець Віталій
 - Єфанов Ілля
-- Степанчук Дмитро
 - Бровко Даніл
 
 ## Lab 1 - Jigsaw Rate Severity of Toxic Comments
